@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+.one{
+    background-color: rgb(0, 255, 179);
+    height : 100px;
+    padding-top: 0PX;
+}
+.four{
+    background-color: rgb(0, 255, 179);
+    height : 120px;
+}
+.head{
+    text-align: center;
+}
+.two{
+    background-color: rgb(39, 183, 219);
+    width : 250px;
+}
+.flex-container {
+    display: flex;
+    height :500px;
+  }

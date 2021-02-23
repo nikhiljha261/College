@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  .one{
+    display: flex;
+    height : 350px;
+  }
+  .two{
+    display: flex;
+    height : 350px;
+  }
+  .three
+  {
+      height : 100px;
+      text-align: center;
+      background-color: yellow;
+      color :red;
+  }

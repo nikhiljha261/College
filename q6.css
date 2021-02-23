@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  .flex-cont{
+    display: flex;
+    height : 350px;
+  }
+  
